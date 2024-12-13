@@ -1,0 +1,15 @@
+teste 1 = real	0m2,033s
+
+teste 2 = real	0m2,006s  
+
+teste 3 =  real	0m2,048s
+
+
+
+		 ------- ALTURA ------- 
+
+			
+ [46] 
+
+
+

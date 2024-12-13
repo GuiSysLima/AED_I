@@ -1,0 +1,12 @@
+teste 1 = real	0m17,457s
+
+teste 2 = real  0m16,998s
+
+teste 3 = real	0m16,679s
+
+média: 0m17,044s
+
+    -------- Altura --------
+
+			
+ [2650] 
